@@ -1,0 +1,5 @@
+﻿Tool,Main Features,Languages Supported,Ease of Use
+NLTK,"Токенізація, стемінг, лемматизація",Багато мов,Середня
+SpaCy,"NER, POS-тегінг",Англійська та інші,Висока
+Hugging Face Transformers,Підтримка моделей трансформерів,Багато мов,Висока
+Gensim,Word Embeddings,Багато мов,Середня
